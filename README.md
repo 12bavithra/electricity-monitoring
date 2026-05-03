@@ -56,17 +56,17 @@ CSV file should contain:
 * Highlights peak consumption periods
 * Helps analyze anomalies
 
-![Power BI Dashboard](Screenshot 2026-05-03 201630.png)
+![Power BI Dashboard](powerbi.png)
 
 ---
 
 ## 📷 App Screenshots
 
-![Dashboard](Screenshot 2026-05-03 195334.png)
+![Dashboard](dashboard.png)
 
-![Data View](Screenshot 2026-05-03 195424.png)
+![Data View](data.png)
 
-![Anomaly Detection](Screenshot 2026-05-03 195521.png)
+![Anomaly Detection](anomaly.png)
 
 ---
 
